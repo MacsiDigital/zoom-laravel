@@ -1,9 +1,11 @@
-# Laravel package for Zoom video conferencing
+# Laravel package for Zoom video conferencing - No longer maintained, use https://github.com/MacsiDigital/laravel-zoom
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/macsidigital/zoom-laravel.svg?style=flat-square)](https://packagist.org/packages/macsidigital/zoom-laravel)
 [![Build Status](https://img.shields.io/travis/macsidigital/zoom-laravel/master.svg?style=flat-square)](https://travis-ci.org/macsidigital/zoom-laravel)
 [![Quality Score](https://img.shields.io/scrutinizer/g/macsidigital/zoom-laravel.svg?style=flat-square)](https://scrutinizer-ci.com/g/macsidigital/zoom-laravel)
 [![Total Downloads](https://img.shields.io/packagist/dt/macsidigital/zoom-laravel.svg?style=flat-square)](https://packagist.org/packages/macsidigital/zoom-laravel)
+
+No longer maintained, use https://github.com/MacsiDigital/laravel-zoom
 
 Package to manage the zoom API in Laravel
 
